@@ -14,10 +14,6 @@ I'm a Computer Science student at the **University of Kansas** with a passion fo
 * **Language:** C++
 * **Description:** A terminal-adjacent rendering engine built from scratch to explore rendering and memory optimization.
 
-#### 🤖 [Community Management Bot - Blade Bot](https://github.com/Auriosi/bladebot)
-* **Language:** Python
-* **Description:** A high-utility Discord bot designed for a large-scale community.
-
 ---
 
 ### 🏛 Collegiate Involvement
